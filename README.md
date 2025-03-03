@@ -1,1 +1,1 @@
-# chatgpt_skala1
+# chatgpt_skala
